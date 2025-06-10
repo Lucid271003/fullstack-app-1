@@ -44,6 +44,8 @@ function App() {
   return (
     <div className="App">
       <h1>Change</h1>
+      <h1>Change</h1>
+
       <header className="App-header">
         <h1>Items List</h1>
         <form onSubmit={handleAddItem}>
